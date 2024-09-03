@@ -10,20 +10,20 @@ Este é um projeto pessoal nas do desejo de combinar paixão por design com a bu
 ## 🔗 Layout
 
 ### Tela Principal
-![HomeDecBase](![image](https://github.com/user-attachments/assets/490b61c6-2a98-436a-867a-3a6358680a5c)
-)
+![image](https://github.com/user-attachments/assets/ca2128bc-1a11-4bb0-ba36-26e7177f65a6)
+
 
 ### Serviços Oferecidos
-![ServicesDecBase](![image](https://github.com/user-attachments/assets/def9d406-67ff-49fc-bdfb-54054ed92d50)
-)
+![image](https://github.com/user-attachments/assets/fc6720e3-83fa-4e94-8f58-0cc4e16f1367)
+
 
 ### Sobre a DecBase
-![AboutDecBase](![image](https://github.com/user-attachments/assets/86a156f1-9895-4166-ac8a-cb45c1de703b)
-)
+![image](https://github.com/user-attachments/assets/2ab49b1a-d569-4a53-a23d-74bba6feeaaf)
+
 
 ### Depoimento dos Clientes
-![image](![image](https://github.com/user-attachments/assets/04d71f80-7d2b-49e4-aad6-66ac1d8541c4)
-)
+![image](https://github.com/user-attachments/assets/a53553b8-ffb9-4cf8-9bc8-2df66f793ffc)
+
 
 ## 💻 Tecnologias usadas
 
@@ -32,14 +32,14 @@ Este é um projeto pessoal nas do desejo de combinar paixão por design com a bu
 ## 📌 Como executar o projeto
 
 ```
-# clone the repository
+# clonar o repositório
 git clone https://github.com/Rayane-Souza/DecBase.git
 
-# Enter the folder
+# Entre na pasta
  cd decbase
 
- # Open the project in the browser
-by right-clicking the HTML file and selecting "Open with" or "Open with live server"
+ # Abra o projeto no navegador
+clicando com o botão direito do mouse no arquivo HTML e selecionando "Open with" ou "Open with live server"
 ```
 ## Author
 
